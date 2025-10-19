@@ -70,6 +70,8 @@ currently_learning: ["Advanced DBMS, Agentic AI"]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-![snake]
-(https://raw.githubusercontent.com/dibyanshupatnaik/dibyanshupatnaik/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dibyanshupatnaik/dibyanshupatnaik/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
