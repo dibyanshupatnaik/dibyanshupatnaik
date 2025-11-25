@@ -34,7 +34,7 @@ fields_of_interests:
     "Tech for Public Good",
     "Digital Transformation"
   ]
-technical_background:
+previous_technical_roles:
   [
     "Backend Software Engineer"
     "AI Engineer",
@@ -43,7 +43,7 @@ technical_background:
     "Associate Consultant - Business Technology Solutions",
   ]
   
-currently_learning: ["Advanced DBMS, Agentic AI"]
+currently_learning: ["Agentic AI, Advanced DBMS"]
 ```
 
 ----
