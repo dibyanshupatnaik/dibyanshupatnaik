@@ -29,9 +29,8 @@ fields_of_interests:
   [
     "Data Engineering",
     "Data Science",
-    "AI",
+    "Voice AI",
     "Agentic Large Language Models",
-    "Tech for Public Good",
     "Digital Transformation"
   ]
 previous_technical_roles:
@@ -43,7 +42,7 @@ previous_technical_roles:
     "Associate Consultant - Business Technology Solutions",
   ]
   
-currently_learning: ["Agentic AI, Advanced DBMS"]
+currently_learning: ["Agentic AI, Multimodal ML, Advanced DBMS"]
 ```
 
 ----
