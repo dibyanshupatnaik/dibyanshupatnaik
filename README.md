@@ -16,22 +16,21 @@
 
 ```yaml
 name: Dibyanshu Patnaik
-located_in: Pittsburgh, USA
-current_job: Data Engineer | Backend Engineer 
+located_in: San Francisco, CA
+current_job: Software Engineer 
 education:
   [
     "Master's in Information Systems Management from Carnegie Mellon University",
     "Bachelor's in Computer Engineering from NMIMS, Mumbai"
   ]
-Organization: Allegheny County DHS / Computer Aid Inc. 
+Organization: [Salient](https://trysalient.com)
 
 fields_of_interests:
   [
-    "Data Engineering",
     "Data Science",
     "Voice AI",
     "Agentic Large Language Models",
-    "Digital Transformation"
+    "Data Engineering"
   ]
 previous_technical_roles:
   [
